@@ -27,6 +27,10 @@ canvas1.create_window(200, 140, window=entry2)
 label3 = tk.Label(root, text= '')
 canvas1.create_window(200, 230, window=label3)
 
+# Requirements
+label4 = tk.Label(root, text= '**This program requires installation of Firefox browser**', fg='red')
+canvas1.create_window(200, 280, window=label4)
+
 def zoom_timer (event=None):  # event for <enter> button
     '''Function takes URL and TIME then will open the given URL at the given time'''
     zoom_link = entry1.get()
