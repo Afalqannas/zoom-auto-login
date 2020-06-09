@@ -9,6 +9,9 @@ This program takes URL and TIME then will open the given URL at the given time
 - selenium webdriver (already in this repository files)
 
 
+### Note:
+- when you run 'ZoomAuto.exe' the two folders 'firefox_driver' and 'o253xtdm.zoom_auto' should be in the same path with 'ZoomAuto.exe' 
+
 
 ### License
 - CC0: Public Domain
