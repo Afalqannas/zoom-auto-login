@@ -1,4 +1,4 @@
-**This README file For regular users, If you are a developer go to development file**
+**This README file For regular users, If you are a developer go to development folder**
 ### Program idea
 
 This program takes URL and TIME then will open the given URL at the given time
